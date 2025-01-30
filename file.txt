@@ -1,1 +1,1 @@
-Made change in file.txt
+Made change in file
